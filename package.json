@@ -1,6 +1,6 @@
 {
   "name": "@dot-event/status",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "dot-event status operation",
   "keywords": [
     "dot-event",
@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.1.2",
-    "chalk": "^2.4.1"
+    "chalk": "2.4.1"
   },
   "devDependencies": {
     "@babel/cli": "7.1.2",
